@@ -7,8 +7,8 @@
 
 ESP8266WiFiMulti wifiMulti;
 
-const char* ssid = "IGENIAL"; //nome da rede
-const char* password = "10261026"; //senha da rede
+const char* ssid = "nomerede"; //nome da rede
+const char* password = "pass"; //senha da rede
 
 void setup()
 {
